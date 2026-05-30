@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyderify",
+        "uuid": 2151920,
+        "checksum": "ssx1ri"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
